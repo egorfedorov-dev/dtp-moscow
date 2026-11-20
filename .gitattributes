@@ -1,0 +1,10 @@
+* text=auto
+*.md text eol=lf
+*.sql text eol=lf
+*.txt text eol=lf
+*.ipynb text eol=lf
+*.parquet binary
+*.duckdb binary
+*.pbix binary
+*.docx binary
+*.csv -text
